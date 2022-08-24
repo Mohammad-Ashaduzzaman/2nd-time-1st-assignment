@@ -220,8 +220,76 @@ p {
 }
 .How-to-Contribute-description> p{
     margin-top: 1rem;
+    font-size: .8rem;
 }
 
+.Get-Our-Updates{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 2.5rem;
+}
+
+.Get-Our-Updates-description{
+    font-size: .8rem;
+}
+
+.news-later{
+    background:#FFF4D6;
+    padding: 5rem 2rem;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 2rem;    
+}
+
+.subscription-email{
+    background: #D9D9D9;
+    color:#AA9F9F;
+    border: none;
+    padding: 1rem;
+    padding-right: 0rem;
+    width: 60%;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px 0px 0px 5px;
+    margin-right: 0;
+    
+}
+
+.subscription-button{
+    width: 30%;
+    background: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    color:#ffffff;
+    border: none;
+    margin-left: 0rem;
+    padding-left: 0%;
+    
+}
+
+.fotter-bottom{
+    background: #0B0D17;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 9rem;
+}
+
+.fotter-text{
+    
+}
+
+.fotter-bottom-heading{
+    font-family: 'Lobster', cursive;
+    font-size: 1.5rem;
+    margin: auto;
+    color: #FF5959;
+}
+
+.fotter-bottom-lastline{
+
+}
 
 
 
