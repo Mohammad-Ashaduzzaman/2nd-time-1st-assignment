@@ -277,17 +277,24 @@ p {
 }
 
 .fotter-text{
-    
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    text-align: center;
+    padding-top: 1.5rem;
 }
 
 .fotter-bottom-heading{
     font-family: 'Lobster', cursive;
     font-size: 1.5rem;
-    margin: auto;
+    margin-bottom: 0;
     color: #FF5959;
 }
 
 .fotter-bottom-lastline{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    color: #fff;
 
 }
 
@@ -298,19 +305,7 @@ p {
 /* Rectangle 246 */
 
 
-/* box-sizing: border-box;
-
-position: absolute;
-width: 1440px;
-height: 669px;
-left: 0px;
-top: 0px;
-
-background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
-border: 1px solid #000000;
-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-
-
+/* 
 
 font-family: 'Inter', sans-serif;
 font-family: 'Lobster', cursive;
